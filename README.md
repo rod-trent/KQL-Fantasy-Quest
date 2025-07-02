@@ -1,6 +1,6 @@
 # KQL Fantasy Quest: MagicalLogs Dataset Guide
 
-This README provides instructions on how to use the `MagicalLogs_Large.csv` dataset, designed for the *KQL Fantasy Quest: The Query of Legends* blog post. The dataset represents a magical log of spell-casting events in a fantasy realm, where wizards battle the Chaos Table and the dragon Syntax Error using Kusto Query Language (KQL).
+This README provides instructions on how to use the `MagicalLogs_Large.csv` dataset, designed for the [*KQL Fantasy Quest: The Query of Legends*](https://rodtrent.substack.com/p/kql-fantasy-quest-the-query-of-legends) blog post. The dataset represents a magical log of spell-casting events in a fantasy realm, where wizards battle the Chaos Table and the dragon Syntax Error using Kusto Query Language (KQL).
 
 ## Dataset Overview
 
@@ -61,7 +61,7 @@ To use this dataset, you need:
 
 ## Using the Dataset
 
-The dataset is designed for practicing KQL queries in the context of the *KQL Fantasy Quest* narrative. Here are example queries and challenges from the blog post to get started:
+The dataset is designed for practicing KQL queries in the context of the [*KQL Fantasy Quest*](https://rodtrent.substack.com/p/kql-fantasy-quest-the-query-of-legends) narrative. Here are example queries and challenges from the blog post to get started:
 
 ### Example Queries
 
@@ -93,7 +93,7 @@ The dataset is designed for practicing KQL queries in the context of the *KQL Fa
 
 ### Blog Post Challenges
 
-Try these challenges from the *KQL Fantasy Quest* blog post to hone your KQL skills:
+Try these challenges from the [*KQL Fantasy Quest* blog post](https://rodtrent.substack.com/p/kql-fantasy-quest-the-query-of-legends) to hone your KQL skills:
 
 1. **The Mana Drain**:
    - Calculate the total `ManaCost` per `Caster`.
@@ -133,7 +133,7 @@ Try these challenges from the *KQL Fantasy Quest* blog post to hone your KQL ski
 
 ## Sharing Your Queries
 
-Join the *KQL Fantasy Quest* community by sharing your queries in the blog post’s comment section (the communal Spellbook). Creative and efficient solutions may earn you the title of “Query Sage”!
+Join the *KQL Fantasy Quest* community by sharing your queries in the [blog post’s comment section](https://rodtrent.substack.com/p/kql-fantasy-quest-the-query-of-legends) (the communal Spellbook). Creative and efficient solutions may earn you the title of “Query Sage”!
 
 ## Troubleshooting
 
@@ -143,6 +143,6 @@ Join the *KQL Fantasy Quest* community by sharing your queries in the blog post�
 
 ## License
 
-This dataset is provided for educational purposes as part of the *KQL Fantasy Quest* blog post. Feel free to use, modify, and share it for learning KQL.
+This dataset is provided for educational purposes as part of the [*KQL Fantasy Quest* blog post](https://rodtrent.substack.com/p/kql-fantasy-quest-the-query-of-legends). Feel free to use, modify, and share it for learning KQL.
 
 Happy querying, brave wizards! May your spells be precise and Syntax Error tremble before your KQL mastery!
